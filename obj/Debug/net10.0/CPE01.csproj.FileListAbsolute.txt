@@ -1,0 +1,18 @@
+C:\Users\Lisse\OneDrive\Desktop\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisse\OneDrive\Desktop\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.AssemblyInfoInputs.cache
+C:\Users\Lisse\OneDrive\Desktop\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.AssemblyInfo.cs
+C:\Users\Lisse\OneDrive\Desktop\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.csproj.CoreCompileInputs.cache
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\bin\Debug\net10.0\CPE01.exe
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\bin\Debug\net10.0\CPE01.deps.json
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\bin\Debug\net10.0\CPE01.runtimeconfig.json
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\bin\Debug\net10.0\CPE01.dll
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\bin\Debug\net10.0\CPE01.pdb
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.AssemblyInfoInputs.cache
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.AssemblyInfo.cs
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.csproj.CoreCompileInputs.cache
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.dll
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\refint\CPE01.dll
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.pdb
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\CPE01.genruntimeconfig.cache
+C:\Users\Lisse\OneDrive - Universidad Estatal Amazónica\UNIVERSIDAD ESTATAL AMAZONICA\ESTRUCTURA DE DATOS\CPE01\obj\Debug\net10.0\ref\CPE01.dll
